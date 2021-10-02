@@ -1,5 +1,5 @@
 # Election_Analysis
-$ git config --global core.autocrlf true
+
 
 ## Overview of Project
 The purpose of this project was to familiarize ourselves with file input/output handling.  We read in a comma delimited file of votes and tallied multiple data points in the file and output those results to both the terminal and a text file.  The file only contained 3 values per row but we were able to compute both total counts and percentage counts for both candidates and county data.
@@ -10,16 +10,22 @@ The purpose of this project was to familiarize ourselves with file input/output 
 * Largest county turnout was Denver
 
 **County Results**
+
 -----------------------------------------------------------------------
 Jefferson: 10.5% (38,855 total votes)
+
 Denver: 82.8% (306,055 total votes)
+
 Arapahoe: 6.7% (24,801 total votes)
 
 
 **Candidate Results**
+
 ------------------------------------------------------------------------
 Charles Casper Stockham: 23.0% (85,213 total votes)
+
 Diana DeGette: 73.8% (272,892 total votes)
+
 Raymon Anthony Doane: 3.1% (11,606 total votes)
 
 **Winning Candidate
