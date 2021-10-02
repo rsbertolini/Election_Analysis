@@ -34,7 +34,7 @@ Winner: Diana DeGette
 
 Winning Vote Count: 272,892
 
-Winning Percentage: 73.8%**
+Winning Percentage: 73.8%
 
 ## Election Audit Summary
 This module could be refactored and used for other election results such as local proposition votes that are for/against, 
