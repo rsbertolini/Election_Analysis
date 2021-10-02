@@ -1,14 +1,14 @@
 # Election_Analysis
+$ git config --global core.autocrlf true
 
 ## Overview of Project
-The purpose of this project was to familiarize ourselves with file input/output handling.  We read in a comma delimited file of votes and tallied multiple data points in the file
-and output those results to both the terminal and a text file.  The file only contained 3 values per row but we were able to compute both total counts and percentage counts for both
-candidates and county data.
+The purpose of this project was to familiarize ourselves with file input/output handling.  We read in a comma delimited file of votes and tallied multiple data points in the file and output those results to both the terminal and a text file.  The file only contained 3 values per row but we were able to compute both total counts and percentage counts for both candidates and county data.
 
 
 ## Election Audit Results
 * The total number of votes cast in this congressional election was 369,711
 * Largest county turnout was Denver
+
 **County Results**
 -----------------------------------------------------------------------
 Jefferson: 10.5% (38,855 total votes)
